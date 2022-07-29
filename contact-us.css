@@ -1,0 +1,9 @@
+*{ 
+  margin: 0; padding: 0; box-sizing: border-box; }
+
+body{
+  background-image: url(https://scontent.fdvo2-2.fna.fbcdn.net/v/t39.30808-6/294636383_5870835236277347_6435658347139604219_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFgYwI43MmcBdS9XV_uOjbEVbgtoGVPVZdVuC2gZU9Vl71BaoW-A8I1LtmL0Vha0SYYEx0WvpMLFuPop5UFXrG3&_nc_ohc=PPeaLZP06igAX_AHnyL&_nc_ht=scontent.fdvo2-2.fna&oh=00_AT-CstbL4VdNOwEdoKLGLHRBQ_aE6exT0lRBqf4G9G35tQ&oe=62E50D44);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
